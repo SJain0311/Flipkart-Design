@@ -3,9 +3,9 @@ function Footer() {
   return (
     <section>
       <footer className="footer">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-md-6">
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-md-6">
               <div className="row">
                 <div className="col-sm-3">
                   <ul>
@@ -22,24 +22,24 @@ function Footer() {
                 <div className="col-sm-3">
                   <ul>
                     <div className="heading-top"> HELP</div>
-                    <li>Contact Us</li>
-                    <li>About Us</li>
-                    <li>Careers</li>
-                    <li>Flipkart Stories</li>
-                    <li>Press</li>
-                    <li>Flipkart Wholesale</li>
-                    <li>Corporate Information</li>
+                    <li>Payment</li>
+                    <li>Shipping</li>
+                    <li>Cancellation</li>
+                    <li>Return</li>
+                    <li>FAQ</li>
+                    <li>Report</li>
+                    <li>Infringement</li>
                   </ul>
                 </div>
                 <div className="col-sm-3">
                   <ul>
                     <div className="heading-top">POLICY</div>
-                    <li>Contact Us</li>
-                    <li>About Us</li>
-                    <li>Careers</li>
-                    <li>Flipkart Stories</li>
-                    <li>Press</li>
-                    <li>Flipkart Wholesale</li>
+                    <li>Return</li>
+                    <li>Terms of use</li>
+                    <li>Security</li>
+                    <li>Privacy</li>
+                    <li>Sitemap</li>
+                    <li>EPR Complaince</li>
                     <li>Corporate Information</li>
                   </ul>
                 </div>
@@ -53,7 +53,7 @@ function Footer() {
                 </div>
               </div>
             </div>
-            <div class="col-md-6 split">
+            <div className="col-md-6 split">
               <div className="row">
                 <div className="col-md-5">
                   <p className="heading-top">Mail Us:</p>

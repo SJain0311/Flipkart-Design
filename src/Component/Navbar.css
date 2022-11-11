@@ -13,7 +13,7 @@ header {
     right: 0;
     top: 0;
     font-family: 'Quicksand', sans-serif !important;
-    padding: 0 5%;
+    /* padding: 0 5%; */
     height: 56px;
     color: #f0f0f0;
     background-color: #2874f0;
@@ -302,7 +302,7 @@ header .icon-burger .line {
     display: none;
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1100px) {
 
     #mainnav>ul>li {
         width: 23.5% !important;

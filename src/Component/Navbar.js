@@ -18,28 +18,28 @@ function Navbar() {
               <img src="images/plus.png" alt="plus" />
             </div>
           </NavLink>
-          <div class="wrap">
-            <div class="search">
+          <div className="wrap">
+            <div className="search">
               <input
                 type="text"
-                class="searchTerm"
+                className="searchTerm"
                 placeholder="Search for products, brands and more"
               />
-              <button type="submit" class="searchButton">
+              <button type="submit" className="searchButton">
                 <svg
                   width="20"
                   height="20"
                   viewBox="0 0 17 18"
-                  class=""
+                  className=""
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <g fill="#2874F1" fill-rule="evenodd">
                     <path
-                      class=""
+                      className=""
                       d="m11.618 9.897l4.225 4.212c.092.092.101.232.02.313l-1.465 1.46c-.081.081-.221.072-.314-.02l-4.216-4.203"
                     ></path>
                     <path
-                      class=""
+                      className=""
                       d="m6.486 10.901c-2.42 0-4.381-1.956-4.381-4.368 0-2.413 1.961-4.369 4.381-4.369 2.42 0 4.381 1.956 4.381 4.369 0 2.413-1.961 4.368-4.381 4.368m0-10.835c-3.582 0-6.486 2.895-6.486 6.467 0 3.572 2.904 6.467 6.486 6.467 3.582 0 6.486-2.895 6.486-6.467 0-3.572-2.904-6.467-6.486-6.467"
                     ></path>
                   </g>
@@ -165,7 +165,7 @@ function Navbar() {
           <li className="display-blo-2">
             <NavLink to="/">
             <FontAwesomeIcon icon={ faTag} />
-              <i class="fa fa-tag"></i> &nbsp; My Rewards
+              <i className="fa fa-tag"></i> &nbsp; My Rewards
             </NavLink>
           </li>
           <li className="display-no-1 nav-more">
@@ -176,7 +176,7 @@ function Navbar() {
                 height="8"
                 viewBox="0 0 16 27"
                 xmlns="http://www.w3.org/2000/svg"
-                class="iconup0"
+                className="iconup0"
               >
                 <path
                   className="iconup2"
@@ -217,27 +217,27 @@ function Navbar() {
           </li>
           <li>
             <NavLink to="/contact">
-              <i class="fa fa-shopping-cart"></i>&nbsp;My Cart
+              <i className="fa fa-shopping-cart"></i>&nbsp;My Cart
             </NavLink>
           </li>
           <li className="display-blo-2">
             <NavLink to="/">
-              <i class="fa fa-heart"></i> &nbsp; My Wishlist
+              <i className="fa fa-heart"></i> &nbsp; My Wishlist
             </NavLink>
           </li>
           <li className="display-blo-2">
             <NavLink to="/">
-              <i class="fa fa-user"></i> &nbsp; My Account
+              <i className="fa fa-user"></i> &nbsp; My Account
             </NavLink>
           </li>
           <li className="display-blo-2">
             <NavLink to="/">
-              <i class="fa fa-bell"></i> &nbsp; My Notifications
+              <i className="fa fa-bell"></i> &nbsp; My Notifications
             </NavLink>
           </li>
           <li className="display-blo-2 border_bot">
             <NavLink to="/">
-              <i class="fa fa-comments"></i> &nbsp; My Chats
+              <i className="fa fa-comments"></i> &nbsp; My Chats
             </NavLink>
           </li>
           <li className="display-blo-2">
@@ -250,7 +250,7 @@ function Navbar() {
             <NavLink to="/">Legal</NavLink>
           </li>
         </ul>
-        <label for="header-toggle" class="icon-burger">
+        <label for="header-toggle" className="icon-burger">
           <div className="line"></div>
           <div className="line"></div>
           <div className="line"></div>
@@ -287,7 +287,7 @@ function Navbar() {
                   height="8"
                   viewBox="0 0 16 27"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="iconup1"
+                  className="iconup1"
                 >
                   <path
                     className="iconup2"
@@ -313,7 +313,7 @@ function Navbar() {
                   height="8"
                   viewBox="0 0 16 27"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="iconup1"
+                  className="iconup1"
                 >
                   <path
                     className="iconup2"
@@ -335,7 +335,7 @@ function Navbar() {
                   height="8"
                   viewBox="0 0 16 27"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="iconup1"
+                  className="iconup1"
                 >
                   <path
                     className="iconup2"
@@ -361,7 +361,7 @@ function Navbar() {
                   height="8"
                   viewBox="0 0 16 27"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="iconup1"
+                  className="iconup1"
                 >
                   <path
                     className="iconup2"
@@ -389,7 +389,7 @@ function Navbar() {
                   height="8"
                   viewBox="0 0 16 27"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="iconup1"
+                  className="iconup1"
                 >
                   <path
                     className="iconup2"
