@@ -49,12 +49,7 @@ function Navbar() {
           </div>
           <ul className="login-button">
             <li className="login1">
-              {/* <NavLink to="/contact">
-                <i className="fa fa-plus-square plus-icon1"></i>
-              </NavLink>
-              <NavLink to="/contact">
-                <i className="fa fa-shopping-cart shopping-icon1"></i>
-              </NavLink> */}
+           
               <a href="/">Login</a>
               <div className="loginpage">
                 <ul className="ulfir">
@@ -217,6 +212,7 @@ function Navbar() {
           </li>
           <li>
             <NavLink to="/contact">
+              
               <i className="fa fa-shopping-cart"></i>&nbsp;My Cart
             </NavLink>
           </li>

@@ -324,7 +324,7 @@ function Home() {
                           </div>
 
                           <div className="col-sm-4">
-                            <div className="card" id="card1">
+                            <div className="" id="card1">
                               <img
                                 className="card-img-top"
                                 src="https://rukminim1.flixcart.com/image/400/400/kirr24w0-0/wall-decoration/f/z/b/rafuf-wooden-intersecting-wall-shelves-set-of-8-black-white-8-original-imafyhg9dzdvyhnz.jpeg?q=70"
@@ -395,7 +395,7 @@ function Home() {
                             </div>
                           </div>
                           <div className="col-sm-4">
-                            <div className="card" id="card1">
+                            <div className="" id="card1">
                               <img
                                 className="card-img-top"
                                 src="https://rukminim1.flixcart.com/image/400/400/xif0q/welding-machine/c/7/3/15-m220-76-arc-igbt-220a-with-hot-start-anti-stick-functions-arc-original-imaggaxpxcs4ffwg.jpeg?q=70"
@@ -414,7 +414,7 @@ function Home() {
                       <div className="carousel-item ">
                         <div className="row">
                           <div className="col-sm-4">
-                            <div className="card" id="card1">
+                            <div className="" id="card1">
                               <img
                                 className="card-img-top"
                                 src="https://rukminim1.flixcart.com/image/200/200/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70"
@@ -429,7 +429,7 @@ function Home() {
                             </div>
                           </div>
                           <div className="col-sm-4">
-                            <div className="card" id="card1">
+                            <div className="" id="card1">
                               <img
                                 className="card-img-top"
                                 src="https://rukminim1.flixcart.com/image/200/200/l1pc3gw0/power-bank/e/u/y/-original-imagd7dzan7sakt2.jpeg?q=70"
